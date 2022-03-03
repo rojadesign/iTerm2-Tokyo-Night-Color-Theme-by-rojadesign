@@ -13,4 +13,4 @@ This is a [iTerm2](https://iterm2.com/) color theme inspired by the [Tokyo Night
 
 ### Example
 
-<img width="710" alt="example" src="https://user-images.githubusercontent.com/35687281/156592395-4612dc4c-4b36-4812-9fa1-bcb0654a1997.png">
+<img width="710" alt="example" src="https://user-images.githubusercontent.com/35687281/156597652-60110bec-3a3d-4d06-9bb3-bf112d4d03de.png">
