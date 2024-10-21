@@ -1,5 +1,5 @@
 # iTerm2 – Tokyo Night Color Theme
-This is a [iTerm2](https://iterm2.com/) color theme inspired by the [Tokyo Night VS Code skin](https://github.com/enkia/tokyo-night-vscode-theme).
+This is a [iTerm2](https://iterm2.com/) color theme inspired by the [Tokyo Night VS Code skin](https://github.com/tokyo-night/tokyo-night-vscode-theme).
 
 ### How To Use
 - Launch iTerm 2. If not installed, get the latest version [here](https://iterm2.com/).
