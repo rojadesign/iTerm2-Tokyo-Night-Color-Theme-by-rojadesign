@@ -15,16 +15,16 @@ This is a [iTerm2](https://iterm2.com/) color theme inspired by the [Tokyo Night
 
 ## Colors
 
-| Name    | Code      | Normal                               | Bright                               |
-| ------- | --------- | ------------------------------------ | ------------------------------------ |
-| Black   | `#2A2734` | <span style="color:#2A2734">█</span> | <span style="color:#454258">█</span> |
-| Red     | `#E2514F` | <span style="color:#E2514F">█</span> | <span style="color:#E2514F">█</span> |
-| Green   | `#00BCDB` | <span style="color:#00BCDB">█</span> | <span style="color:#4EF4E0">█</span> |
-| Yellow  | `#E1C381` | <span style="color:#E1C381">█</span> | <span style="color:#E1C281">█</span> |
-| Blue    | `#5234B2` | <span style="color:#5234B2">█</span> | <span style="color:#7C65C3">█</span> |
-| Magenta | `#E59E50` | <span style="color:#E59E50">█</span> | <span style="color:#E59E50">█</span> |
-| Cyan    | `#29B7E6` | <span style="color:#29B7E6">█</span> | <span style="color:#24D5F7">█</span> |
-| White   | `#9A84EE` | <span style="color:#9A84EE">█</span> | <span style="color:#EDEBFF">█</span> |
+| Name    | Code      | Normal    | Bright    |
+| ------- | --------- | --------- | --------- |
+| Black   | `#2A2734` | █ #2A2734 | █ #454258 |
+| Red     | `#E2514F` | █ #E2514F | █ #E2514F |
+| Green   | `#00BCDB` | █ #00BCDB | █ #4EF4E0 |
+| Yellow  | `#E1C381` | █ #E1C381 | █ #E1C281 |
+| Blue    | `#5234B2` | █ #5234B2 | █ #7C65C3 |
+| Magenta | `#E59E50` | █ #E59E50 | █ #E59E50 |
+| Cyan    | `#29B7E6` | █ #29B7E6 | █ #24D5F7 |
+| White   | `#9A84EE` | █ #9A84EE | █ #EDEBFF |
 
 ## Example
 
